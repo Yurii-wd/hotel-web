@@ -17,6 +17,9 @@
 	float: none;
 	width:100%;
 }
+.btn-light{
+margin-bottom: 20px;
+}
 /*boxes*/
 .box{
 	float: none;
