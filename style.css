@@ -138,7 +138,7 @@ line-height: 1. 2em;
 #home-info .info-img {
 	float: left;
 	width:50%;
-	background: url('../img/photo-1.jpg') no-repeat;
+	background: url('photo-1.jpg') no-repeat;
 	min-height: 100%;
 }
 #home-info .info-content{
